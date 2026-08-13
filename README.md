@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Xiamen University**
 
-- 🌱 I’m currently learning **GPU Programming. Fault Tolerating. Model Action Insight**
+- 🌱 I’m currently learning **GPU Programming. Fault Tolerating. Model Action Analysis**
 
 - 👯 I’m looking to collaborate on **Huawei & Ant Group**
 
