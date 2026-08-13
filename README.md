@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepcity</h1>
-<h3 align="center">A Student from China</h3>
+<h3 align="center">A Graduate Student from China</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=deepcity&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="deepcity profile views" />
