@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [deepcity.github.io](https://deepcity.github.io)
 
-- 💬 Ask me about **Fault Address in Model Workload. GPU Kernel Function Optimization**
+- 💬 Ask me about **Fault Address during Model Workload. GPU Kernel Function Optimization**
 
 - 📫 How to reach me **Sunga456@126.com**
 
