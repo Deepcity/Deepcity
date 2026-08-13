@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[Dev.to](https://dev.to/sunga) · [X](https://x.com/deepcity764637) · [Stack Overflow](https://stackoverflow.com/users/25403518)
+[X](https://x.com/deepcity764637)
 
 <h3 align="left">Languages and Tools:</h3>
 
