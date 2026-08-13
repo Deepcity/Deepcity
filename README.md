@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/deepcity764637" target="blank"><img src="https://img.shields.io/twitter/follow/deepcity764637?logo=twitter&style=for-the-badge" alt="deepcity764637" /></a> </p>
 
-- 🔭 I’m currently working on **None**
+- 🔭 I’m currently working on **Xiamen University**
 
-- 🌱 I’m currently learning **Rust,go,redis...**
+- 🌱 I’m currently learning **GPU Programming. Fault Tolerating. Model Action Insight**
 
-- 👯 I’m looking to collaborate on **Huawei**
+- 👯 I’m looking to collaborate on **Huawei & Ant Group**
 
-- 🤝 I’m looking for help with **None**
+- 🤝 I’m looking for help with **Defang Chen.**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com](https://www.github.com)
 
-- 📝 I regularly write articles on [https://blog.keboe.cn](https://blog.keboe.cn)
+- 📝 I regularly write articles on [https://deepcity.github.io](https://deepcity.github.io)
 
 - 💬 Ask me about **cpp,linux...**
 
 - 📫 How to reach me **Sunga456@126.com**
 
-- 📄 Know about my experiences [https://blog.keboe.cn/about](https://blog.keboe.cn/about)
+- 📄 Know about my experiences [https://deepcity.github.io/about](https://deepcity.github.io/about)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
