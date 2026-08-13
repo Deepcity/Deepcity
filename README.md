@@ -3,23 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepcity&label=Profile%20views&color=0e75b6&style=flat" alt="deepcity" /> </p>
 
-- 🔭 I’m currently working on **Xiamen University**
+- 🔭 I’m currently working on **Xiamen University**.
 
-- 🌱 I’m currently learning **GPU Programming. Fault Tolerating. Model Action Insight**
+- 🌱 I’m currently learning **GPU Programming. Fault Tolerating. Model Action Insight**.
 
-- 👯 I’m looking to collaborate on **Huawei & Ant Group**
+- 👯 I’m looking to collaborate on **Huawei & Ant Group**.
 
-- 🤝 I’m looking for help with **Defang Chen.**
+- 🤝 I’m looking for help with **Defang Chen**.
 
-- 👨‍💻 All of my projects are available at [https://www.github.com](https://www.github.com)
+- 👨‍💻 All of my projects are available at [https://www.github.com](https://www.github.com).
 
-- 📝 I regularly write articles on [https://deepcity.github.io](https://deepcity.github.io)
+- 📝 I regularly write articles on [https://deepcity.github.io](https://deepcity.github.io).
 
-- 💬 Ask me about **Fault Address in Model Workload. GPU Kernel Function Optimization**
+- 💬 Ask me about **Fault Address in Model Workload. GPU Kernel Function Optimization**.
 
-- 📫 How to reach me **Form email of Sunga456@126.com**
+- 📫 How to reach me **Form email of Sunga456@126.com**.
 
-- 📄 Know about my experiences [https://deepcity.github.io/about](https://deepcity.github.io/about)
+- 📄 Know about my experiences [https://deepcity.github.io/about](https://deepcity.github.io/about).
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
