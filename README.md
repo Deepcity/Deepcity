@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[X](https://x.com/deepcity764637)
+[Dev.to](https://dev.to/sunga) · [X](https://x.com/deepcity764637) · [Stack Overflow](https://stackoverflow.com/users/25403518)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -38,28 +38,30 @@
   <tr>
     <td align="center" width="140"><strong>Languages</strong></td>
     <td>
-      <img src="./assets/languages.svg" alt="C, C++, Go, Java, JavaScript, Kotlin, Python and Rust" height="48" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><strong>Web &amp; App</strong></td>
-    <td>
-      <img src="./assets/web-app.svg" alt="Android, Angular, CSS, HTML, Next.js, Node.js, Qt and Spring" height="48" />
+      <img src="./assets/languages.svg" alt="C, C++, Go, Java, JavaScript, Python and Rust" height="48" />
+      <img src="./assets/cuda.svg" alt="CUDA" width="48" height="48" />
+      <img src="./assets/ascend.svg" alt="Ascend" width="48" height="48" />
+      <img src="./assets/cann.svg" alt="CANN" width="48" height="48" />
     </td>
   </tr>
   <tr>
     <td align="center" width="140"><strong>Data &amp; AI</strong></td>
     <td>
-      <img src="./assets/data-ai.svg" alt="MATLAB, MongoDB, MySQL, PyTorch, Redis and TensorFlow" height="48" />
-      <img src="./assets/oracle.svg" alt="Oracle" width="48" height="48" />
+      <img src="./assets/data.svg" alt="MATLAB, MongoDB, MySQL and Redis" height="48" />
+      <img src="./assets/ai.svg" alt="PyTorch and TensorFlow" height="48" />
+      <img src="./assets/ascend.svg" alt="Ascend" width="48" height="48" />
     </td>
   </tr>
   <tr>
     <td align="center" width="140"><strong>DevOps &amp; Tools</strong></td>
     <td>
-      <img src="./assets/devops-tools.svg" alt="Docker, Git, Kubernetes, Linux, Nginx and Photoshop" height="48" />
+      <img src="./assets/devops-tools.svg" alt="Docker, Git, Kubernetes, Linux and Nginx" height="48" />
       <img src="./assets/hexo.svg" alt="Hexo" width="48" height="48" />
       <img src="./assets/travis-ci.svg" alt="Travis CI" width="48" height="48" />
+      <img src="./assets/gpt.svg" alt="GPT" width="48" height="48" />
+      <img src="./assets/gemini.svg" alt="Gemini" width="48" height="48" />
+      <img src="./assets/claude.svg" alt="Claude" width="48" height="48" />
+      <img src="./assets/kimi.svg" alt="Kimi" width="48" height="48" />
     </td>
   </tr>
 </table>
