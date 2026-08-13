@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Ascend">
+  <defs><linearGradient id="a" x1="8" y1="38" x2="40" y2="8" gradientUnits="userSpaceOnUse"><stop stop-color="#00A9F4"/><stop offset="1" stop-color="#E94277"/></linearGradient></defs>
+  <rect width="48" height="48" rx="12" fill="#242938"/>
+  <path d="M13 29 24 9l11 20h-7l-4-8-4 8h-7Z" fill="url(#a)"/>
+  <text x="24" y="39" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="7" font-weight="700">ASCEND</text>
+</svg>

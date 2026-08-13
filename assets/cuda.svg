@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="CUDA">
+  <rect width="48" height="48" rx="12" fill="#242938"/>
+  <path d="M10 19c5-7 17-9 27-2-6-2-13-1-17 3 4-2 10-2 15 1-6 8-18 9-25 3 4 2 9 2 13 0-5 0-9-2-13-5Z" fill="#76B900"/>
+  <text x="24" y="37" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="8" font-weight="700">CUDA</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Kimi">
+  <rect width="48" height="48" rx="12" fill="#242938"/>
+  <circle cx="24" cy="22" r="14" fill="#2F80ED"/>
+  <path d="M17 12v20m0-9 12-11M17 23l13 10" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="24" y="43" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="7" font-weight="700">KIMI</text>
+</svg>

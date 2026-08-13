@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="CANN">
+  <rect width="48" height="48" rx="12" fill="#242938"/>
+  <path d="M14 13h20v5H19v12h15v5H14V13Z" fill="#E94277"/>
+  <circle cx="31" cy="24" r="5" fill="#00A9F4"/>
+  <text x="24" y="42" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="7.5" font-weight="700">CANN</text>
+</svg>
