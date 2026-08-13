@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Deepcity</h1>
-<h3 align="center">A Graduate Student from China</h3>
+<h3 align="center">A Student from China</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=deepcity&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="deepcity profile views" />
 </p>
 
+
 - 🔭 I’m currently working on **Xiamen University**
 
-- 🌱 I’m currently learning **GPU Programming. Fault Tolerating. Model Action Analysis**
+- 🌱 I’m currently learning **GPU Programming. Fault Tolerating. Model Action Insight**
 
 - 👯 I’m looking to collaborate on **Huawei & Ant Group**
 
@@ -39,9 +40,9 @@
     <td align="center" width="140"><strong>Languages</strong></td>
     <td>
       <img src="./assets/languages.svg" alt="C, C++, Go, Java, JavaScript, Python and Rust" height="48" />
-      <img src="./assets/cuda.svg" alt="CUDA" width="48" height="48" />
-      <img src="./assets/ascend.svg" alt="Ascend" width="48" height="48" />
-      <img src="./assets/cann.svg" alt="CANN" width="48" height="48" />
+      <img src="./assets/cuda.png" alt="CUDA" width="48" height="48" />
+      <img src="./assets/ascend.png" alt="Ascend" width="48" height="48" />
+      <img src="./assets/cann.png" alt="CANN" width="48" height="48" />
     </td>
   </tr>
   <tr>
@@ -49,7 +50,7 @@
     <td>
       <img src="./assets/data.svg" alt="MATLAB, MongoDB, MySQL and Redis" height="48" />
       <img src="./assets/ai.svg" alt="PyTorch and TensorFlow" height="48" />
-      <img src="./assets/ascend.svg" alt="Ascend" width="48" height="48" />
+      <img src="./assets/ascend.png" alt="Ascend" width="48" height="48" />
     </td>
   </tr>
   <tr>
@@ -58,13 +59,14 @@
       <img src="./assets/devops-tools.svg" alt="Docker, Git, Kubernetes, Linux and Nginx" height="48" />
       <img src="./assets/hexo.svg" alt="Hexo" width="48" height="48" />
       <img src="./assets/travis-ci.svg" alt="Travis CI" width="48" height="48" />
-      <img src="./assets/gpt.svg" alt="GPT" width="48" height="48" />
-      <img src="./assets/gemini.svg" alt="Gemini" width="48" height="48" />
-      <img src="./assets/claude.svg" alt="Claude" width="48" height="48" />
-      <img src="./assets/kimi.svg" alt="Kimi" width="48" height="48" />
+      <img src="./assets/gpt.png" alt="GPT" width="48" height="48" />
+      <img src="./assets/gemini.png" alt="Gemini" width="48" height="48" />
+      <img src="./assets/claude.png" alt="Claude" width="48" height="48" />
+      <img src="./assets/kimi.png" alt="Kimi" width="48" height="48" />
     </td>
   </tr>
 </table>
+
 
 <br clear="both" />
 
@@ -75,10 +77,13 @@
   <a href="https://github.com/Deepcity"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepcity&amp;theme=github_dark" alt="deepcity's GitHub stats" width="300" /></a>
 </div>
 
+
 <div align="center">
   <a href="https://github.com/Deepcity"><img src="https://streak-stats.demolab.com?user=deepcity&amp;theme=github-dark-blue&amp;hide_border=true" alt="deepcity's GitHub streak" width="604" /></a>
 </div>
 
+
 <p align="center">
   <sub><em>Note: The statistics above are based on public repositories only.</em></sub>
 </p>
+
